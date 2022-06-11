@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ##### Various Statistics:
 
-> - **Number of times asked for IT Support (since the 11th of May 2022):**
+> - **Number of times asked for IT Support (since the 20th of November 2020):**
 >
->    0
+>    3
