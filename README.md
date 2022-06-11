@@ -1,4 +1,4 @@
-### Hi there 👋
+**Technophobic computer scientist and PhD Student in the [*Logic and Semantics*](https://logsem.github.io/) research group at the [Department of Computer Science](https://cs.au.dk/) at [Aarhus University](https://au.dk/). Here, I am working on making Binary Decision Diagrams scale beyond the internal memory of your machine. Elsewhere, I am a climber, dancer, psychology and philosophy interested and board game playing socialist hippie.**
 
 <!--
 **SSoelvsten/SSoelvsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Various Statistics:
+
+> - **Number of times asked for IT Support (since the 11th of May 2022):**
+>
+>    0
